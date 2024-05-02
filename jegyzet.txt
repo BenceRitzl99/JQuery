@@ -1,0 +1,13 @@
+document.querySelector("#empBody").innerHTML = "Valami";
+
+JQueryben
+$("#empBody").html("Valami"); // $ --> jelképezi a JQuery-t
+
+$(szelektor)
+mint a CSS
+.Valami
+#Valami
+h1
+p
+
+$("h1").html("Valami")
